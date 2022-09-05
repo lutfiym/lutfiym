@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lutfiym
-- 👀 I’m interested in materials informatics, machine learning and data scince
+- 👀 I’m interested in materials informatics, machine learning and data science
 - 🌱 I’m currently learning fundamental of data science and machine learning
 - 💞️ I’m looking to collaborate on open source materials informatics projects or machine learning
 - 📫 How to reach me @lutfiym at twitter or mail me at lutfimaulidi@yahoo.com
